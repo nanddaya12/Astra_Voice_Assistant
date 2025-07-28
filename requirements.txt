@@ -1,0 +1,9 @@
+speechrecognition==3.10.0
+pyttsx3==2.90
+pywin32==306
+comtypes==1.2.0
+screen-brightness-control==0.8.4
+wmi==1.5.1
+sounddevice==0.4.6
+pyaudio==0.2.14
+pip~=25.1.1
